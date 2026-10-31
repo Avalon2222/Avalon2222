@@ -31,7 +31,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/Avalon2222/dc-impact-dashboard">
         <img src="https://raw.githubusercontent.com/Avalon2222/dc-impact-dashboard/main/docs/screenshots/01_peta.png" alt="Data Center Impact Dashboard" />
       </a>
@@ -40,7 +40,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p>An interactive map exposing how much electricity and water Indonesia's data centers devour, and how many residents end up sharing the bill. Tweak the assumptions, watch the numbers move.</p>
       <p align="center"><code>Python</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/Avalon2222/btc-news-volatility">
         <img src="https://raw.githubusercontent.com/Avalon2222/btc-news-volatility/main/docs/screenshots/02_hover.png" alt="Bitcoin vs World News" />
       </a>
@@ -49,7 +49,9 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p>An interactive chart that flags Bitcoin's wildest days and drags the usual suspects to the table: Trump, the Fed, wars, regulators, collapsing exchanges. Hover for the motive, click for the evidence.</p>
       <p align="center"><code>Python</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/Avalon2222/indonesia-defense-gis">
         <img src="https://raw.githubusercontent.com/Avalon2222/indonesia-defense-gis/main/docs/screenshots/01_peta.png" alt="Indonesia Defense WebGIS" />
       </a>
@@ -57,6 +59,15 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p align="center"><b>The archipelago, under the all-seeing eye.</b></p>
       <p>A WebGIS of Indonesia's defense geography: TNI bases, outermost islands, sea lanes and foreign bases in the region on one map, with range rings and nearest-base analysis. Public data only, no state secrets harmed.</p>
       <p align="center"><code>Python</code> <code>Folium</code> <code>Streamlit</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/ring-of-fire-pulse">
+        <img src="https://raw.githubusercontent.com/Avalon2222/ring-of-fire-pulse/main/docs/screenshots/01_peta.png" alt="The Pulse of the Ring of Fire" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/ring-of-fire-pulse">🌋 ring-of-fire-pulse</a></h3>
+      <p align="center"><b>The ground never sleeps.</b></p>
+      <p>A live map of Indonesia's earthquakes and volcanoes, fed by public BMKG, USGS and MAGMA feeds: magnitude, depth and timing patterns, Gutenberg–Richter b-values, and volcano alert levels. Not an early-warning system, just the pulse made visible.</p>
+      <p align="center"><code>Python</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
   </tr>
 </table>
