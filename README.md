@@ -16,7 +16,7 @@
 
 ## The short version
 
-My background is in informatics. My craft is alchemy: I take the public data nobody bothers to read and
+My background is in computer science and computer engineering. My craft is alchemy: I take the public data nobody bothers to read and
 turn it into something people can see, touch, and argue about. Current obsessions: how much power and
 water the machines drink, who gets blamed every time Bitcoin bleeds, and what the archipelago looks like
 under the all-seeing eye.
