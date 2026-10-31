@@ -70,6 +70,17 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p align="center"><code>Python</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/who-owns-the-sky">
+        <img src="https://raw.githubusercontent.com/Avalon2222/who-owns-the-sky/main/docs/screenshots/01_peta.png" alt="Who Owns the Sky" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/who-owns-the-sky">✈️ who-owns-the-sky</a></h3>
+      <p align="center"><b>Every plane leaves a trail.</b></p>
+      <p>A live map of every aircraft over Indonesia from public ADS-B data (OpenSky Network), with a heatmap of the busiest corridors and a running answer to one question: who owns the sky right now?</p>
+      <p align="center"><code>Python</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
+  </tr>
 </table>
 
 ## The arsenal
