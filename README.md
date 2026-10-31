@@ -80,25 +80,14 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p>A live map of every aircraft over Indonesia from public ADS-B data (OpenSky Network), with a heatmap of the busiest corridors and a running answer to one question: who owns the sky right now?</p>
       <p align="center"><code>Python</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/follow-the-money">
+        <img src="https://raw.githubusercontent.com/Avalon2222/follow-the-money/main/docs/screenshots/01_peta.png" alt="Follow the Money" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/follow-the-money">💸 follow-the-money</a></h3>
+      <p align="center"><b>Every rupiah has a destination.</b></p>
+      <p>An interactive dashboard of regional government finances across 38 Indonesian provinces: where the money comes from, where it goes, and how the map flips the moment you divide by population. Public data, no spin.</p>
+      <p align="center"><code>Python</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
   </tr>
 </table>
-
-## The arsenal
-
-| Domain | Weapons of choice |
-|---|---|
-| Languages | Python, SQL, JavaScript, Java, PHP |
-| Data & visualization | pandas, Plotly, Streamlit |
-| Geospatial | Folium (Leaflet), haversine, GeoJSON |
-| Tooling | Git, pytest, Markdown |
-
-## The numbers
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avalon2222&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avalon2222&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165" />
-</p>
-
----
-
-<p align="center"><sub>Public data only. Sources cited. No secrets harmed.</sub></p>
