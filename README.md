@@ -90,4 +90,15 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p align="center"><code>Python</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/btc-whale-watch">
+        <img src="https://raw.githubusercontent.com/Avalon2222/btc-whale-watch/main/docs/screenshots/01_linimasa.png" alt="Bitcoin Whale Watch" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/btc-whale-watch">🐋 btc-whale-watch</a></h3>
+      <p align="center"><b>Someone always moves first.</b></p>
+      <p>Tracks giant Bitcoin transactions straight from the public blockchain, lines them up against 5-minute price candles, and asks the honest question: do whales move the price, or just follow it?</p>
+      <p align="center"><code>Python</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
+  </tr>
 </table>
