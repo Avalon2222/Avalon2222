@@ -32,6 +32,7 @@ APLIKASI = [
     "https://roof-vs-paycheck.streamlit.app",
     "https://the-air-we-breathe.streamlit.app",
     "https://burning-archipelago.streamlit.app",
+    "https://talk-to-the-data.streamlit.app",
 ]
 
 TEKS_TIDUR = "get this app back up"       # potongan teks tombol pada halaman tidur
