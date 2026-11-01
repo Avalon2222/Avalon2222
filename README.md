@@ -107,5 +107,15 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p>Tracks giant Bitcoin transactions straight from the public blockchain, lines them up against 5-minute price candles, and asks the honest question: do whales move the price, or just follow it?</p>
       <p align="center"><code>Python</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/roof-vs-paycheck">
+        <img src="https://raw.githubusercontent.com/Avalon2222/roof-vs-paycheck/main/docs/screenshots/01_years_to_own.png" alt="Roof vs Paycheck" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/roof-vs-paycheck">🏠 roof-vs-paycheck</a></h3>
+      <p align="center"><a href="https://roof-vs-paycheck.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/roof-vs-paycheck">Code</a></p>
+      <p align="center"><b>Count the years before the key turns.</b></p>
+      <p>Puts the 2026 minimum wage of 13 Indonesian cities next to the price of a roof in the same city: subsidised house, second-hand house, studio, boarding room, rented house. Counts the years of saving each one takes, then asks whether a mortgage beats renting once the equity is counted.</p>
+      <p align="center"><code>Python</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
   </tr>
 </table>
