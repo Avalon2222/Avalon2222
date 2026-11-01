@@ -118,4 +118,16 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p align="center"><code>Python</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/the-air-we-breathe">
+        <img src="https://raw.githubusercontent.com/Avalon2222/the-air-we-breathe/main/docs/screenshots/01_peta.png" alt="The Air We Breathe" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/the-air-we-breathe">🌫️ the-air-we-breathe</a></h3>
+      <p align="center"><a href="https://the-air-we-breathe.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/the-air-we-breathe">Code</a></p>
+      <p align="center"><b>Every breath is a data point.</b></p>
+      <p>A live PM2.5 map of Greater Jakarta from free Open-Meteo data, scored on Indonesia's ISPU and the US AQI, with hourly and weather patterns and a tomorrow forecast from a small ML model that is backtested against persistence and admits when it loses.</p>
+      <p align="center"><code>Python</code> <code>scikit-learn</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
+  </tr>
 </table>
