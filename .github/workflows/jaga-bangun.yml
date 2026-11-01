@@ -1,6 +1,6 @@
 name: Jaga aplikasi tetap bangun
 
-# Mengunjungi ketujuh aplikasi Streamlit Community Cloud setiap 6 jam dengan browser
+# Mengunjungi semua aplikasi Streamlit Community Cloud setiap 6 jam dengan browser
 # headless, dan menekan tombol bangun bila aplikasi tertidur. Lihat scripts/jaga_bangun.py.
 on:
   schedule:

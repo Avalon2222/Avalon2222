@@ -129,5 +129,15 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p>A live PM2.5 map of Greater Jakarta from free Open-Meteo data, scored on Indonesia's ISPU and the US AQI, with hourly and weather patterns and a tomorrow forecast from a small ML model that is backtested against persistence and admits when it loses.</p>
       <p align="center"><code>Python</code> <code>scikit-learn</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/burning-archipelago">
+        <img src="https://raw.githubusercontent.com/Avalon2222/burning-archipelago/main/docs/screenshots/01_titik_api.png" alt="The Burning Archipelago" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/burning-archipelago">🔥 burning-archipelago</a></h3>
+      <p align="center"><a href="https://burning-archipelago.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/burning-archipelago">Code</a></p>
+      <p align="center"><b>First the smoke, then the silence.</b></p>
+      <p>A live map of this week's NASA FIRMS fire detections laid over two decades of Global Forest Watch tree cover loss, province by province. Which provinces are burning now, which ones already lost their forest, and how little the two maps overlap.</p>
+      <p align="center"><code>Python</code> <code>numpy</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
   </tr>
 </table>
