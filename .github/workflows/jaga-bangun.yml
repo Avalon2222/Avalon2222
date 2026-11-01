@@ -1,0 +1,34 @@
+name: Jaga aplikasi tetap bangun
+
+# Mengunjungi ketujuh aplikasi Streamlit Community Cloud setiap 6 jam dengan browser
+# headless, dan menekan tombol bangun bila aplikasi tertidur. Lihat scripts/jaga_bangun.py.
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # 00:17, 06:17, 12:17, 18:17 UTC (07:17, 13:17, 19:17, 01:17 WIB)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: jaga-bangun
+  cancel-in-progress: false
+
+jobs:
+  kunjungi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pasang Playwright
+        run: |
+          pip install --quiet playwright==1.49.1
+          playwright install --with-deps chromium
+
+      - name: Kunjungi semua aplikasi
+        run: python scripts/jaga_bangun.py
