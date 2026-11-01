@@ -36,6 +36,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
         <img src="https://raw.githubusercontent.com/Avalon2222/dc-impact-dashboard/main/docs/screenshots/01_peta.png" alt="Data Center Impact Dashboard" />
       </a>
       <h3 align="center"><a href="https://github.com/Avalon2222/dc-impact-dashboard">🏭 dc-impact-dashboard</a></h3>
+      <p align="center"><a href="https://dc-impact-dashboard.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/dc-impact-dashboard">Code</a></p>
       <p align="center"><b>The machines are thirsty.</b></p>
       <p>An interactive map exposing how much electricity and water Indonesia's data centers devour, and how many residents end up sharing the bill. Tweak the assumptions, watch the numbers move.</p>
       <p align="center"><code>Python</code> <code>Plotly</code> <code>Streamlit</code></p>
@@ -45,6 +46,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
         <img src="https://raw.githubusercontent.com/Avalon2222/btc-news-volatility/main/docs/screenshots/02_hover.png" alt="Bitcoin vs World News" />
       </a>
       <h3 align="center"><a href="https://github.com/Avalon2222/btc-news-volatility">₿ btc-news-volatility</a></h3>
+      <p align="center"><a href="https://btc-news-volatility.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/btc-news-volatility">Code</a></p>
       <p align="center"><b>Every Bitcoin crash has a suspect.</b></p>
       <p>An interactive chart that flags Bitcoin's wildest days and drags the usual suspects to the table: Trump, the Fed, wars, regulators, collapsing exchanges. Hover for the motive, click for the evidence.</p>
       <p align="center"><code>Python</code> <code>Plotly</code> <code>Streamlit</code></p>
@@ -56,6 +58,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
         <img src="https://raw.githubusercontent.com/Avalon2222/indonesia-defense-gis/main/docs/screenshots/01_peta.png" alt="Indonesia Defense WebGIS" />
       </a>
       <h3 align="center"><a href="https://github.com/Avalon2222/indonesia-defense-gis">🛡️ indonesia-defense-gis</a></h3>
+      <p align="center"><a href="https://indonesia-defense-gis.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/indonesia-defense-gis">Code</a></p>
       <p align="center"><b>The archipelago, under the all-seeing eye.</b></p>
       <p>A WebGIS of Indonesia's defense geography: TNI bases, outermost islands, sea lanes and foreign bases in the region on one map, with range rings and nearest-base analysis. Public data only, no state secrets harmed.</p>
       <p align="center"><code>Python</code> <code>Folium</code> <code>Streamlit</code></p>
@@ -65,6 +68,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
         <img src="https://raw.githubusercontent.com/Avalon2222/ring-of-fire-pulse/main/docs/screenshots/01_peta.png" alt="The Pulse of the Ring of Fire" />
       </a>
       <h3 align="center"><a href="https://github.com/Avalon2222/ring-of-fire-pulse">🌋 ring-of-fire-pulse</a></h3>
+      <p align="center"><a href="https://ring-of-fire-pulse.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/ring-of-fire-pulse">Code</a></p>
       <p align="center"><b>The ground never sleeps.</b></p>
       <p>A live map of Indonesia's earthquakes and volcanoes, fed by public BMKG, USGS and MAGMA feeds: magnitude, depth and timing patterns, Gutenberg–Richter b-values, and volcano alert levels. Not an early-warning system, just the pulse made visible.</p>
       <p align="center"><code>Python</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
@@ -76,6 +80,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
         <img src="https://raw.githubusercontent.com/Avalon2222/who-owns-the-sky/main/docs/screenshots/01_peta.png" alt="Who Owns the Sky" />
       </a>
       <h3 align="center"><a href="https://github.com/Avalon2222/who-owns-the-sky">✈️ who-owns-the-sky</a></h3>
+      <p align="center"><a href="https://who-owns-the-sky.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/who-owns-the-sky">Code</a></p>
       <p align="center"><b>Every plane leaves a trail.</b></p>
       <p>A live map of every aircraft over Indonesia from public ADS-B data (OpenSky Network), with a heatmap of the busiest corridors and a running answer to one question: who owns the sky right now?</p>
       <p align="center"><code>Python</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
@@ -85,6 +90,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
         <img src="https://raw.githubusercontent.com/Avalon2222/follow-the-money/main/docs/screenshots/01_peta.png" alt="Follow the Money" />
       </a>
       <h3 align="center"><a href="https://github.com/Avalon2222/follow-the-money">💸 follow-the-money</a></h3>
+      <p align="center"><a href="https://follow-the-money.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/follow-the-money">Code</a></p>
       <p align="center"><b>Every rupiah has a destination.</b></p>
       <p>An interactive dashboard of regional government finances across 38 Indonesian provinces: where the money comes from, where it goes, and how the map flips the moment you divide by population. Public data, no spin.</p>
       <p align="center"><code>Python</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
@@ -96,6 +102,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
         <img src="https://raw.githubusercontent.com/Avalon2222/btc-whale-watch/main/docs/screenshots/01_linimasa.png" alt="Bitcoin Whale Watch" />
       </a>
       <h3 align="center"><a href="https://github.com/Avalon2222/btc-whale-watch">🐋 btc-whale-watch</a></h3>
+      <p align="center"><a href="https://btc-whale-watch.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/btc-whale-watch">Code</a></p>
       <p align="center"><b>Someone always moves first.</b></p>
       <p>Tracks giant Bitcoin transactions straight from the public blockchain, lines them up against 5-minute price candles, and asks the honest question: do whales move the price, or just follow it?</p>
       <p align="center"><code>Python</code> <code>Plotly</code> <code>Streamlit</code></p>
