@@ -151,5 +151,15 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p>One chatbot over every project above. Ask in plain Indonesian or English; a language model turns the question into a structured query, pandas computes the answer, Plotly draws it, and the exact rows it came from ship with every reply. No invented numbers: if the data can't answer, it says so.</p>
       <p align="center"><code>Python</code> <code>pandas</code> <code>Plotly</code> <code>Streamlit</code> <code>LLM tool calling</code></p>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/global-conflict-tracker">
+        <img src="https://raw.githubusercontent.com/Avalon2222/global-conflict-tracker/main/docs/screenshots/01_peta.png" alt="Global Conflict Tracker" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/global-conflict-tracker">🌍 global-conflict-tracker</a></h3>
+      <p align="center"><a href="https://global-conflict-tracker.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/global-conflict-tracker">Code</a></p>
+      <p align="center"><b>The world, counted in casualties.</b></p>
+      <p>Every armed conflict on Earth since 1989, from 434,000 UCDP events: a casualty map, trends by type of violence and region, and a drill-down for every country. Where wars happen, how deadly they are, and which way they are heading.</p>
+      <p align="center"><code>Python</code> <code>pandas</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
   </tr>
 </table>
