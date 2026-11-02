@@ -173,6 +173,15 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p>A live satellite tracker over Indonesia built from public orbital elements: Indonesian satellites versus foreign ones, which countries' military and imaging satellites pass overhead most often, at what hour, and which geostationary ones never leave. Orbital mechanics in pure numpy.</p>
       <p align="center"><code>Python</code> <code>sgp4</code> <code>numpy</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/strait-watch">
+        <img src="https://raw.githubusercontent.com/Avalon2222/strait-watch/main/docs/screenshots/01_peta.png" alt="Strait Watch" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/strait-watch">🚢 strait-watch</a></h3>
+      <p align="center"><a href="https://strait-watch.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/strait-watch">Code</a></p>
+      <p align="center"><b>The world's busiest chokepoint, live.</b></p>
+      <p>A live AIS map of ships in the Strait of Malacca, plus daily satellite-AIS transit counts since 2019 for Malacca and Indonesia's archipelagic sea lanes. Tankers, flags, chokepoints, the bases watching them, and the days traffic broke pattern.</p>
+      <p align="center"><code>Python</code> <code>WebSocket</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
   </tr>
 </table>
