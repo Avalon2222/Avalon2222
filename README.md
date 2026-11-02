@@ -162,4 +162,17 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p align="center"><code>Python</code> <code>pandas</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/who-watches-indonesia">
+        <img src="https://raw.githubusercontent.com/Avalon2222/who-watches-indonesia/main/docs/screenshots/01_live_map.png" alt="Who Watches Indonesia" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/who-watches-indonesia">🛰️ who-watches-indonesia</a></h3>
+      <p align="center"><a href="https://who-watches-indonesia.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/who-watches-indonesia">Code</a></p>
+      <p align="center"><b>Look up. Someone is already looking down.</b></p>
+      <p>A live satellite tracker over Indonesia built from public orbital elements: Indonesian satellites versus foreign ones, which countries' military and imaging satellites pass overhead most often, at what hour, and which geostationary ones never leave. Orbital mechanics in pure numpy.</p>
+      <p align="center"><code>Python</code> <code>sgp4</code> <code>numpy</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
