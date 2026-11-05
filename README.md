@@ -261,5 +261,15 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p>What Palantir actually sells, rebuilt small: a Foundry-style ontology over Indonesian maritime trade, with ports, vessels, commodities, companies and voyages joined by named links. Browse objects, pivot through the graph, run audited actions, and ask questions in plain Indonesian that the schema itself turns into SQL, no language model required, every step shown.</p>
       <p align="center"><code>Python</code> <code>SQLite</code> <code>networkx</code> <code>Graphviz</code> <code>Streamlit</code></p>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/gotham-lite">
+        <img src="https://raw.githubusercontent.com/Avalon2222/gotham-lite/main/docs/screenshots/01_explorer.png" alt="Gotham Lite" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/gotham-lite">🕸️ gotham-lite</a></h3>
+      <p align="center"><a href="https://gotham-lite.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/gotham-lite">Code</a></p>
+      <p align="center"><b>Everyone is connected to someone.</b></p>
+      <p>A pocket-sized Palantir: 84,735 people, companies, vessels and aircraft from public sanctions lists wired into one clickable graph. Search a name, expand its hidden neighbours, ask how an oligarch reaches a North Korean freighter in five hops, and watch which of 2,041 sanctioned ships are broadcasting AIS right now. Built from 2.5 GB of OpenSanctions data with a two-pass streaming pipeline, networkx and Cytoscape.</p>
+      <p align="center"><code>Python</code> <code>networkx</code> <code>Cytoscape.js</code> <code>Graph analytics</code> <code>Streamlit</code></p>
+    </td>
   </tr>
 </table>
