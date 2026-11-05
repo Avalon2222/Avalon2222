@@ -212,7 +212,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
         <img src="https://raw.githubusercontent.com/Avalon2222/disinfo-radar/main/docs/screenshots/01_radar.png" alt="Disinfo Radar" />
       </a>
       <h3 align="center"><a href="https://github.com/Avalon2222/disinfo-radar">📡 disinfo-radar</a></h3>
-      <p align="center"><a href="https://disinfo-radar.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/disinfo-radar">Code</a></p>
+      <p align="center"><a href="https://hoax-radar.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/disinfo-radar">Code</a></p>
       <p align="center"><b>Every lie leaves a fingerprint.</b></p>
       <p>A radar for Indonesian disinformation built on thousands of public fact-check articles: TF-IDF and NMF sort the hoaxes into topics, track which ones are rising, watch scams overtake chain messages, and find the closest debunked claim for any new one. No model bigger than scikit-learn.</p>
       <p align="center"><code>Python</code> <code>scikit-learn</code> <code>NLP</code> <code>Plotly</code> <code>Streamlit</code></p>
