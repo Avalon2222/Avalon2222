@@ -250,4 +250,16 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p align="center"><code>Python</code> <code>pandas</code> <code>Event study</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/ontology-playground">
+        <img src="https://raw.githubusercontent.com/Avalon2222/ontology-playground/main/docs/screenshots/01_ontology.png" alt="Ontology Playground" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/ontology-playground">🧩 ontology-playground</a></h3>
+      <p align="center"><a href="https://ontology-playground.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/ontology-playground">Code</a></p>
+      <p align="center"><b>Connect everything. Then ask it anything.</b></p>
+      <p>What Palantir actually sells, rebuilt small: a Foundry-style ontology over Indonesian maritime trade, with ports, vessels, commodities, companies and voyages joined by named links. Browse objects, pivot through the graph, run audited actions, and ask questions in plain Indonesian that the schema itself turns into SQL, no language model required, every step shown.</p>
+      <p align="center"><code>Python</code> <code>SQLite</code> <code>networkx</code> <code>Graphviz</code> <code>Streamlit</code></p>
+    </td>
+  </tr>
 </table>
