@@ -31,6 +31,18 @@ Every project ships with a built-in **learning mode**, because a chart you can't
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://eye-of-garuda.vercel.app">
+        <img src="https://raw.githubusercontent.com/Avalon2222/eye-of-garuda/main/docs/screenshots/hero.png" alt="Eye of Garuda" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/eye-of-garuda">🦅 eye-of-garuda</a></h3>
+      <p align="center"><a href="https://eye-of-garuda.vercel.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/eye-of-garuda">Code</a></p>
+      <p align="center"><b>The archipelago never sleeps. Neither does the eye.</b></p>
+      <p>A dark, cinematic defense console for Indonesia on a WebGL globe: TNI bases, foreign bases across the region, undersea cables, the EEZ against the nine-dash line, combat-radius rings, SIPRI arms-import arcs, and a timeline of Natuna incidents. On top of it, things that move: military aircraft from ADS-B, 900 military and reconnaissance satellites propagated from TLE in the browser, and an AIS ship snapshot refreshed by GitHub Actions. Shareable URLs, a guided briefing tour, ID/EN, keyboard-driven, works on phones.</p>
+      <p align="center"><code>Next.js</code> <code>TypeScript</code> <code>MapLibre GL</code> <code>satellite.js</code> <code>Tailwind</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Avalon2222/dc-impact-dashboard">
         <img src="https://raw.githubusercontent.com/Avalon2222/dc-impact-dashboard/main/docs/screenshots/01_peta.png" alt="Data Center Impact Dashboard" />
@@ -148,7 +160,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <h3 align="center"><a href="https://github.com/Avalon2222/talk-to-the-data">💬 talk-to-the-data</a></h3>
       <p align="center"><a href="https://talk-to-the-data.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/talk-to-the-data">Code</a></p>
       <p align="center"><b>The data finally talks back.</b></p>
-      <p>One chatbot over the other nineteen projects in this portfolio. Ask in plain Indonesian or English; a language model turns the question into a structured query, pandas computes the answer, Plotly draws it, and the exact rows it came from ship with every reply. No invented numbers: if the data can't answer, it says so.</p>
+      <p>One chatbot over the other twenty-one projects in this portfolio. Ask in plain Indonesian or English; a language model turns the question into a structured query, pandas computes the answer, Plotly draws it, and the exact rows it came from ship with every reply. No invented numbers: if the data can't answer, it says so.</p>
       <p align="center"><code>Python</code> <code>pandas</code> <code>Plotly</code> <code>Streamlit</code> <code>LLM tool calling</code></p>
     </td>
     <td width="50%" valign="top">
