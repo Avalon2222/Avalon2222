@@ -148,7 +148,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <h3 align="center"><a href="https://github.com/Avalon2222/talk-to-the-data">💬 talk-to-the-data</a></h3>
       <p align="center"><a href="https://talk-to-the-data.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/talk-to-the-data">Code</a></p>
       <p align="center"><b>The data finally talks back.</b></p>
-      <p>One chatbot over the other thirteen projects in this portfolio. Ask in plain Indonesian or English; a language model turns the question into a structured query, pandas computes the answer, Plotly draws it, and the exact rows it came from ship with every reply. No invented numbers: if the data can't answer, it says so.</p>
+      <p>One chatbot over the other fifteen projects in this portfolio. Ask in plain Indonesian or English; a language model turns the question into a structured query, pandas computes the answer, Plotly draws it, and the exact rows it came from ship with every reply. No invented numbers: if the data can't answer, it says so.</p>
       <p align="center"><code>Python</code> <code>pandas</code> <code>Plotly</code> <code>Streamlit</code> <code>LLM tool calling</code></p>
     </td>
     <td width="50%" valign="top">
@@ -194,6 +194,16 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p align="center"><b>Someone pulled the plug.</b></p>
       <p>A map and timeline of 1,888 deliberate internet shutdowns in 97 countries since 2016: who cut the cord, during which protest, war or exam, and what they claimed afterwards. With live outage detection from IODA and a cross-check against armed-conflict casualties.</p>
       <p align="center"><code>Python</code> <code>pandas</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/cut-the-cable">
+        <img src="https://raw.githubusercontent.com/Avalon2222/cut-the-cable/main/docs/screenshots/01_peta.png" alt="Cut the Cable" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/cut-the-cable">✂️ cut-the-cable</a></h3>
+      <p align="center"><a href="https://cut-the-cable.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/cut-the-cable">Code</a></p>
+      <p align="center"><b>Cut one cable. Watch who goes dark.</b></p>
+      <p>Every submarine internet cable that lands in Indonesia, on one map, with a what-if simulator: cut a cable, knock out a landing station, or hit one stretch of sea, and see which coastal towns lose their route to the world. Graph theory on public TeleGeography data.</p>
+      <p align="center"><code>Python</code> <code>networkx</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
   </tr>
 </table>
