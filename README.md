@@ -236,7 +236,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <h3 align="center"><a href="https://github.com/Avalon2222/palantir-contracts">🔮 palantir-contracts</a></h3>
       <p align="center"><a href="https://palantir-contracts.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/palantir-contracts">Code</a></p>
       <p align="center"><b>They see everything. Now see who pays.</b></p>
-      <p>Every US federal contract action and UK public-sector award to Palantir, pulled from USAspending and Contracts Finder: $6.1B from Washington, £376M from Whitehall, mapped by agency, sector and year. Two-thirds is defense, half of it landed in the last two years, and the "$10 billion" Army deal is 16% spent.</p>
+      <p>Every US federal contract action and UK public-sector award to Palantir, pulled from USAspending and Contracts Finder: $6.1B from Washington, £376M from Whitehall, mapped by agency, sector and year. Two-thirds is defense, half of it landed in the last two years, and the "$10 billion" Army deal is only 16% obligated so far.</p>
       <p align="center"><code>Python</code> <code>pandas</code> <code>REST APIs</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
     <td width="50%" valign="top">
