@@ -148,7 +148,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <h3 align="center"><a href="https://github.com/Avalon2222/talk-to-the-data">💬 talk-to-the-data</a></h3>
       <p align="center"><a href="https://talk-to-the-data.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/talk-to-the-data">Code</a></p>
       <p align="center"><b>The data finally talks back.</b></p>
-      <p>One chatbot over the other sixteen projects in this portfolio. Ask in plain Indonesian or English; a language model turns the question into a structured query, pandas computes the answer, Plotly draws it, and the exact rows it came from ship with every reply. No invented numbers: if the data can't answer, it says so.</p>
+      <p>One chatbot over the other eighteen projects in this portfolio. Ask in plain Indonesian or English; a language model turns the question into a structured query, pandas computes the answer, Plotly draws it, and the exact rows it came from ship with every reply. No invented numbers: if the data can't answer, it says so.</p>
       <p align="center"><code>Python</code> <code>pandas</code> <code>Plotly</code> <code>Streamlit</code> <code>LLM tool calling</code></p>
     </td>
     <td width="50%" valign="top">
@@ -226,6 +226,20 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p align="center"><b>The seeing stone has customers.</b></p>
       <p>A world map of the armies, spy agencies, police forces and hospitals that run on Palantir: 48 agencies in 19 countries plus NATO, Europol and the WFP, 26 controversies, every row with a source. Revenue split pulled straight from Palantir's SEC 10-K filings shows where the money really comes from.</p>
       <p align="center"><code>Python</code> <code>pandas</code> <code>SEC EDGAR</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/palantir-contracts">
+        <img src="https://raw.githubusercontent.com/Avalon2222/palantir-contracts/main/docs/screenshots/01_peta.png" alt="Follow the Contracts" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/palantir-contracts">🔮 palantir-contracts</a></h3>
+      <p align="center"><a href="https://palantir-contracts.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/palantir-contracts">Code</a></p>
+      <p align="center"><b>They see everything. Now see who pays.</b></p>
+      <p>Every US federal contract action and UK public-sector award to Palantir, pulled from USAspending and Contracts Finder: $6.1B from Washington, £376M from Whitehall, mapped by agency, sector and year. Two-thirds is defense, half of it landed in the last two years, and the "$10 billion" Army deal is 16% spent.</p>
+      <p align="center"><code>Python</code> <code>pandas</code> <code>REST APIs</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
