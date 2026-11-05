@@ -184,4 +184,16 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p align="center"><code>Python</code> <code>WebSocket</code> <code>Folium</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/blackout-watch">
+        <img src="https://raw.githubusercontent.com/Avalon2222/blackout-watch/main/docs/screenshots/01_peta.png" alt="Blackout Watch" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/blackout-watch">📵 blackout-watch</a></h3>
+      <p align="center"><a href="https://blackout-watch.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/blackout-watch">Code</a></p>
+      <p align="center"><b>Someone pulled the plug.</b></p>
+      <p>A map and timeline of 1,888 deliberate internet shutdowns in 97 countries since 2016: who cut the cord, during which protest, war or exam, and what they claimed afterwards. With live outage detection from IODA and a cross-check against armed-conflict casualties.</p>
+      <p align="center"><code>Python</code> <code>pandas</code> <code>Plotly</code> <code>Streamlit</code></p>
+    </td>
+  </tr>
 </table>
