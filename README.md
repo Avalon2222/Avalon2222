@@ -148,7 +148,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <h3 align="center"><a href="https://github.com/Avalon2222/talk-to-the-data">💬 talk-to-the-data</a></h3>
       <p align="center"><a href="https://talk-to-the-data.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/talk-to-the-data">Code</a></p>
       <p align="center"><b>The data finally talks back.</b></p>
-      <p>One chatbot over the other eighteen projects in this portfolio. Ask in plain Indonesian or English; a language model turns the question into a structured query, pandas computes the answer, Plotly draws it, and the exact rows it came from ship with every reply. No invented numbers: if the data can't answer, it says so.</p>
+      <p>One chatbot over the other nineteen projects in this portfolio. Ask in plain Indonesian or English; a language model turns the question into a structured query, pandas computes the answer, Plotly draws it, and the exact rows it came from ship with every reply. No invented numbers: if the data can't answer, it says so.</p>
       <p align="center"><code>Python</code> <code>pandas</code> <code>Plotly</code> <code>Streamlit</code> <code>LLM tool calling</code></p>
     </td>
     <td width="50%" valign="top">
@@ -240,6 +240,14 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <p align="center"><code>Python</code> <code>pandas</code> <code>REST APIs</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/Avalon2222/pltr-war-index">
+        <img src="https://raw.githubusercontent.com/Avalon2222/pltr-war-index/main/docs/screenshots/01_grafik.png" alt="PLTR War Index" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/pltr-war-index">🛰️ pltr-war-index</a></h3>
+      <p align="center"><a href="https://pltr-war-index.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/pltr-war-index">Code</a></p>
+      <p align="center"><b>Every war has a ticker.</b></p>
+      <p>Does Palantir stock rise when the bombs fall? A finance-grade event study across 48 invasions, escalations, US strikes and ceasefires since the 2020 IPO, with a market model, abnormal returns and a 1,000-draw placebo test. Verdict: on average, no. Ukraine 2022 and Iran 2026 each added 22% over the market, and the market still prices PLTR like an AI stock, not a weapons maker.</p>
+      <p align="center"><code>Python</code> <code>pandas</code> <code>Event study</code> <code>Plotly</code> <code>Streamlit</code></p>
     </td>
   </tr>
 </table>

@@ -40,6 +40,7 @@ APLIKASI = [
     "https://hoax-radar.streamlit.app",
     "https://who-uses-palantir.streamlit.app",
     "https://palantir-contracts.streamlit.app",
+    "https://pltr-war-index.streamlit.app",
 ]
 
 TEKS_TIDUR = "get this app back up"       # potongan teks tombol pada halaman tidur
