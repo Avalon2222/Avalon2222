@@ -38,8 +38,8 @@ Every project ships with a built-in **learning mode**, because a chart you can't
       <h3 align="center"><a href="https://github.com/Avalon2222/dc-impact-dashboard">🏭 dc-impact-dashboard</a></h3>
       <p align="center"><a href="https://dc-impact-dashboard.streamlit.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/dc-impact-dashboard">Code</a></p>
       <p align="center"><b>The machines are thirsty.</b></p>
-      <p>An interactive map exposing how much electricity and water Indonesia's data centers devour, and how many residents end up sharing the bill. Tweak the assumptions, watch the numbers move.</p>
-      <p align="center"><code>Python</code> <code>Plotly</code> <code>Streamlit</code></p>
+      <p>An interactive map exposing how much electricity and water Indonesia's data centers devour, and how many residents end up sharing the bill. Under the hood: a DuckDB database with a live SQL explorer, a weekly data pipeline, a climate-to-PUE model trained on Google's and Meta's own disclosures, and a FastAPI service. Tweak the assumptions, watch the numbers move.</p>
+      <p align="center"><code>Python</code> <code>DuckDB</code> <code>scikit-learn</code> <code>FastAPI</code> <code>Streamlit</code></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Avalon2222/btc-news-volatility">
