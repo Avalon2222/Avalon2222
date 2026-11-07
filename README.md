@@ -33,7 +33,7 @@ Every project ships with a built-in **learning mode**, because a chart you can't
   <tr>
     <td colspan="2" valign="top">
       <a href="https://eye-of-garuda.vercel.app">
-        <img src="https://raw.githubusercontent.com/Avalon2222/eye-of-garuda/main/docs/screenshots/hero.png?v=20261107" alt="Eye of Garuda" />
+        <img src="https://raw.githubusercontent.com/Avalon2222/eye-of-garuda/main/docs/screenshots/hero.png?v=20261107b" alt="Eye of Garuda" />
       </a>
       <h3 align="center"><a href="https://github.com/Avalon2222/eye-of-garuda">🦅 eye-of-garuda</a></h3>
       <p align="center"><a href="https://eye-of-garuda.vercel.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/eye-of-garuda">Code</a></p>
