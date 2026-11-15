@@ -79,6 +79,18 @@ Every project ships with a built-in **learning mode**, because a chart you can't
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://nightlights-from-space.vercel.app">
+        <img src="https://raw.githubusercontent.com/Avalon2222/nightlights-from-space/main/docs/screenshots/hero.png" alt="Nightlights from Space" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/nightlights-from-space">🌃 nightlights-from-space</a></h3>
+      <p align="center"><a href="https://nightlights-from-space.vercel.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/nightlights-from-space">Code</a></p>
+      <p align="center"><b>Fifteen years of Indonesia after dark, seen from orbit.</b></p>
+      <p>Every night around 1:30 a.m. a NASA satellite photographs Indonesia's lights from 824 km up. This is fifteen years of those photos (Black Marble, VIIRS Day/Night Band) turned into a smooth time-lapse, then measured: national light output nearly tripled between 2012 and 2026 while the share of households on the PLN grid only moved from 92% to 98%, and the number of regencies without a single lit pixel fell from 37 to 10. Compare 38 provinces and 514 regencies on light growth, light per capita and grid access; watch Kupang drop to a fifth of its brightness after Cyclone Seroja and climb back night by night; see the new capital IKN, the nickel smelters of Morowali and the lamp-lit dragon fruit farms of Banyuwangi switch on. A live mode pulls any night since 2012 straight from NASA and recolours it in the browser. No account or API key anywhere in the pipeline.</p>
+      <p align="center"><code>Next.js</code> <code>TypeScript</code> <code>MapLibre GL</code> <code>NASA Black Marble</code> <code>Python</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Avalon2222/dc-impact-dashboard">
         <img src="https://raw.githubusercontent.com/Avalon2222/dc-impact-dashboard/main/docs/screenshots/01_peta.png" alt="Data Center Impact Dashboard" />
