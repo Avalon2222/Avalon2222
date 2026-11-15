@@ -43,6 +43,18 @@ Every project ships with a built-in **learning mode**, because a chart you can't
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://cyber-attack-map-id.vercel.app">
+        <img src="https://raw.githubusercontent.com/Avalon2222/cyber-attack-map-id/main/docs/screenshot.png" alt="Cyber Attack Map ID" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/cyber-attack-map-id">🛰️ cyber-attack-map-id</a></h3>
+      <p align="center"><a href="https://cyber-attack-map-id.vercel.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/cyber-attack-map-id">Code</a></p>
+      <p align="center"><b>Who's knocking on Indonesia's digital door?</b></p>
+      <p>A "hacker movie" threat map for Indonesia that stays honest about what it shows. Glowing arcs fly into Indonesia on a dark WebGL globe, weighted by each origin country's share of attacks targeting Indonesia in Cloudflare Radar (web L7 and network DDoS L3). Pulsing dots mark Indonesian IPs caught hosting malware, brute-forcing, spamming or running botnet C2 (URLhaus, blocklist.de, Feodo Tracker, AbuseIPDB), masked and placed at city level. Around it: a terminal-style indicator feed, a 30-day trend, global noise from DShield sensors, AlienVault OTX campaigns that target Indonesia, and official BSSN figures. A GitHub Actions pipeline rebuilds the snapshot every two hours, with carry-over when a feed goes down. ID/EN, works on phones.</p>
+      <p align="center"><code>Next.js</code> <code>TypeScript</code> <code>MapLibre GL</code> <code>Cloudflare Radar</code> <code>GitHub Actions</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Avalon2222/dc-impact-dashboard">
         <img src="https://raw.githubusercontent.com/Avalon2222/dc-impact-dashboard/main/docs/screenshots/01_peta.png" alt="Data Center Impact Dashboard" />
