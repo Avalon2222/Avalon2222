@@ -55,6 +55,18 @@ Every project ships with a built-in **learning mode**, because a chart you can't
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://garuda-ledger.vercel.app">
+        <img src="https://raw.githubusercontent.com/Avalon2222/garuda-ledger/main/docs/screenshots/hero.png" alt="Garuda Ledger" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/garuda-ledger">🧾 garuda-ledger</a></h3>
+      <p align="center"><a href="https://garuda-ledger.vercel.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/garuda-ledger">Code</a></p>
+      <p align="center"><b>Secrets have budgets. Budgets leave receipts.</b></p>
+      <p>A dark, Gotham-style link-analysis console for Indonesian defense and security procurement: 44,092 awarded tenders worth IDR 298 trillion, 11,593 vendors and 1,943 buying units across the Ministry of Defense, the armed forces, the National Police, Bakamla, BSSN and BIN, drawn as a force-directed graph on a hand-written canvas renderer. Click a vendor for its dossier: who buys from it, how much, in which years, and which of ten statistical patterns show up (awards within 0.1% of the owner estimate, the same vendor winning at one unit for five-plus years, three awards in thirty days). Every pattern ships with its definition, the sector baseline and a legitimate explanation; they are statistics, never accusations. Behind it, a dependency-free Python ETL streams 1.3 million open-contracting records, resolves 14,368 supplier records into vendors with deliberately conservative entity resolution, and refuses to publish if a data-quality gate fails. GitHub Actions re-checks the source every morning. Shareable URLs, keyboard-driven, works on phones.</p>
+      <p align="center"><code>Next.js</code> <code>TypeScript</code> <code>d3-force</code> <code>Canvas</code> <code>Python ETL</code> <code>GitHub Actions</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Avalon2222/dc-impact-dashboard">
         <img src="https://raw.githubusercontent.com/Avalon2222/dc-impact-dashboard/main/docs/screenshots/01_peta.png" alt="Data Center Impact Dashboard" />
