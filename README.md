@@ -67,6 +67,18 @@ Every project ships with a built-in **learning mode**, because a chart you can't
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://disaster-ops-id.vercel.app">
+        <img src="https://raw.githubusercontent.com/Avalon2222/disaster-ops/main/docs/screenshots/hero.png" alt="Disaster Ops" />
+      </a>
+      <h3 align="center"><a href="https://github.com/Avalon2222/disaster-ops">🚨 disaster-ops</a></h3>
+      <p align="center"><a href="https://disaster-ops-id.vercel.app"><b>▶ Live app</b></a> · <a href="https://github.com/Avalon2222/disaster-ops">Code</a></p>
+      <p align="center"><b>When the ground shakes and the sky burns, this is the room that stays awake.</b></p>
+      <p>A live disaster war room for Indonesia on a WebGL globe. Fire hotspots from three NASA satellites, earthquakes merged from BMKG and USGS every minute, volcano alert levels, BNPB incidents, citizen flood reports and BMKG weather warnings, under thousands of wind particles that follow the forecast. It looks ahead with a full Canadian Fire Weather Index run, smoke drift along 850 hPa winds, and flood risk from rain totals and GloFAS river discharge. Earthquakes are not predicted; instead, click anywhere for an M7 shaking scenario with people exposed per intensity class, or drop a tsunami source and watch the wavefront cross the real seafloor with arrival times for 190 coastal towns. The War Room writes a daily SITREP from the feeds with no language model, and a replay walks through the 2019 haze crisis day by day. ID/EN, works on phones.</p>
+      <p align="center"><code>Next.js</code> <code>TypeScript</code> <code>MapLibre GL</code> <code>Canvas particles</code> <code>GitHub Actions</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Avalon2222/dc-impact-dashboard">
         <img src="https://raw.githubusercontent.com/Avalon2222/dc-impact-dashboard/main/docs/screenshots/01_peta.png" alt="Data Center Impact Dashboard" />
