@@ -333,3 +333,18 @@ Every project ships with a built-in **learning mode**, because a chart you can't
     </td>
   </tr>
 </table>
+
+## Open source
+
+Some of my code no longer lives in my repos. It ships inside libraries other people `pip install`.
+
+<p>
+  <img src="https://img.shields.io/github/issues-search?query=is%3Apr%20is%3Amerged%20author%3AAvalon2222%20-user%3AAvalon2222&label=merged%20upstream%20PRs&style=for-the-badge&color=2ea44f" alt="Merged upstream PRs" />
+</p>
+
+**[randyzwitch/streamlit-folium](https://github.com/randyzwitch/streamlit-folium)** · the bridge between Streamlit and Leaflet maps
+
+| PR | What it does | Status |
+|---|---|---|
+| [#336](https://github.com/randyzwitch/streamlit-folium/pull/336) | **LocateControl support.** A "find me" button that hands the user's GPS position back to Python as `last_located`, with a distance threshold so a jittery signal doesn't rerun the whole app. Reworked after the maintainer's review. | ✅ Merged |
+| [#337](https://github.com/randyzwitch/streamlit-folium/pull/337) | **CI rescue.** `ubuntu-latest` jumped to 26.04 and took the Playwright test suite down with it. Pinned the runner to `ubuntu-24.04` and the pipeline went green again. | ✅ Merged |
